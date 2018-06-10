@@ -1,0 +1,8 @@
+STRINGTABLE TAeroplane
+{
+	TAeroplane			"Aeroplane";
+
+	AEROPLANE_ENABLED	"Enabled";
+	AEROPLANE_FLIP		"Flip Plane";
+	AEROPLANE_LINK		"Target Plane";
+}

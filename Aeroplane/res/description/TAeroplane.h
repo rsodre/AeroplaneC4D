@@ -1,0 +1,16 @@
+#ifndef _TAeroplane_H_
+#define _TAeroplane_H_
+
+enum
+{
+	AEROPLANE_ENABLED = 1000,
+	AEROPLANE_FLIP,
+	AEROPLANE_LINK,
+	
+	AEROPLANE_CAM_ROT,
+	AEROPLANE_CAM_FOV,
+	AEROPLANE_CAM_OFFX,
+	AEROPLANE_CAM_OFFY,
+}
+
+#endif
