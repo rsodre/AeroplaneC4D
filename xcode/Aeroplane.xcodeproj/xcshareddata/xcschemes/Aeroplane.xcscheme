@@ -53,6 +53,7 @@
       allowLocationSimulation = "YES">
       <PathRunnable
          runnableDebuggingMode = "0"
+         BundleIdentifier = "net.maxon.cinema4d"
          FilePath = "/Applications/MAXON/CINEMA 4D R19/CINEMA 4D R19.app">
       </PathRunnable>
       <MacroExpansion>
