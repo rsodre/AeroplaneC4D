@@ -105,3 +105,4 @@ venv.bak/
 
 # Roger
 .DS_Store
+/Releases

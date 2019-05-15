@@ -54,7 +54,7 @@
       <PathRunnable
          runnableDebuggingMode = "0"
          BundleIdentifier = "net.maxon.cinema4d"
-         FilePath = "/Applications/MAXON/CINEMA 4D R19/CINEMA 4D R19.app">
+         FilePath = "/Applications/MAXON/CINEMA 4D R20/CINEMA 4D.app">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
