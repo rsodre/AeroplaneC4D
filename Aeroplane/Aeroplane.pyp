@@ -159,7 +159,6 @@ class Aeroplane(plugins.TagData):
 
 		self.cam_.Message(c4d.MSG_UPDATE)
 		self.plane_.Message(c4d.MSG_UPDATE)
-		c4d.EventAdd()
 
 		return c4d.EXECUTIONRESULT_OK
 
