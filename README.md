@@ -33,3 +33,11 @@ Audience POV is on the bleachers of a stadium, projection on the field.
 
 ![](Aeroplane/Examples/AeroplaneExample2.png)
 
+
+## Development	
+
+There's a XCode project for browsing and testing the code on macOS.
+
+You can run Cinema 4D from XCode, but it must know where your C4D app is located. Click on the **Aeroplace** scheme (on the top top, to the right of the Stop button), Manage Schemes..., Aeroplane, Edit..., Run, Executable.
+
+Before running, `xcode/install.sh` will be executed to deploy the plugin to your Cinema 4D folder. Make sure `PREFERENCES_FOLDER` and `PLUGINS_FOLDER` in the script are pointing to the correct folders on your environment. 
